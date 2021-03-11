@@ -15,6 +15,7 @@
 * [C++는 뭔데?](cpp.md)
 * [구름 이야기](cloud.md)
 * [데이터베이스라는게 있단다](database.md)
+* [Ruby가 기차를?](rubyonrails.md)
 * ...
 
 ### 이 문서의 저작권 

@@ -4,7 +4,7 @@
 
 좋은 학습 리소스가 있다면 여기에 추가하신 뒤 [이 저장소, https://github.com/innovationacademy-kr/hitchhikers_guide](https://github.com/innovationacademy-kr/hitchhikers_guide)에 PR을 날려주시면 검토 후 등록해드리겠습니다.
 
-각 세부 카테고리에 "* [제목](link) - 간단설명" 이런 형식으로 등록해주세요.
+각 세부 카테고리에 "* \[제목\](link) - 간단설명" 이런 형식으로 등록해주세요.
 
 이 저장소를 watch 하시면 새로운 정보가 올라올 때, 메일을 받으실 수 있습니다.
 

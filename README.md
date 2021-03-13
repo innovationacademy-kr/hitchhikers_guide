@@ -2,7 +2,7 @@
 
 아래 각 항목에 해당되는 md 파일에 가면 학습 리소스가 있습니다.
 
-좋은 학습 리소스가 있다면 여기에 추가하신 뒤 [이 저장소, https://github.com/innovationacademy-kr/hitchhikers_guide](https://github.com/innovationacademy-kr/hitchhikers_guide)에 PR을 날려주시면 검토 후 등록해드리겠습니다.
+좋은 학습 리소스가 있다면 여기에 추가하신 뒤 [이 저장소](https://github.com/innovationacademy-kr/hitchhikers_guide)에 PR을 날려주시면 검토 후 등록해드리겠습니다.
 
 각 세부 카테고리에 "* \[제목\](link) - 간단설명" 이런 형식으로 등록해주세요.
 
@@ -19,6 +19,7 @@
 * [구름 이야기](cloud.md)
 * [데이터베이스라는게 있단다](database.md)
 * [Ruby가 기차를?](rubyonrails.md)
+* [Django: 웹개발 추적자](django.md)
 * ...
 
 ### 이 문서의 저작권 

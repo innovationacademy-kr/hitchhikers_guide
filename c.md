@@ -9,4 +9,6 @@
 * [리눅스 환경에서의 C 프로그래밍](https://joinc.co.kr/w/Site/C/Documents/CprogramingForLinuxEnv) - C언어 시작부터 구조체까지
 * [TCP SCHOOL C언어](http://tcpschool.com/c/intro) - C언어 기초에 대한 상세한 설명
 * [system call 함수 man 페이지 레퍼런스](https://www.joinc.co.kr/w/man/2) - C언어로 리눅스 시스템 프로그래밍을 할 때 참고하면 좋은 man페이지 번역본
-* [C언어 공부법과 책추천](https://sunyzero.tistory.com/m/225) - c언어를 공부하는 방법
+* [C언어 공부법과 책 추천](https://sunyzero.tistory.com/m/225) - c언어를 공부하는 방법
+* [혼자 공부하는 C 언어](https://books.google.co.kr/books?id=_ZxTzAEACAAJ&dq=%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+c%EC%96%B8%EC%96%B4&hl=ko&sa=X&redir_esc=y) - 실습하며 C 언어 기초 익히기. 유튜브 강의 이외에도 [무료 강의](https://academy.elice.io/courses/5585/info)가 있음.
+* ...

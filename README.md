@@ -22,6 +22,8 @@
 * [Django: 웹개발 추적자](django.md)
 * [수학 필요한 만큼만 배우자](math.md)
 * [어떤 구조가 좋은가](algorithm.md)
+* [Python도 잘 배우자](python.md)
+* [Git 이용하기도 벅차...](git.md)
 * ...
 
 ### 이 문서의 저작권 

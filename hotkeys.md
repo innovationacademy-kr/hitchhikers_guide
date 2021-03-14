@@ -5,6 +5,6 @@
 * [애플 MacOS 핫키](https://support.apple.com/ko-kr/HT201236)
 * [XCode 단축키 정리](https://velog.io/@gomjellie/xcode-shortcuts)
 * [Vim 단축키 정리](https://vim.rtorr.com/lang/ko)
-* [VSCode 단축키 정리](VSCode_Cheat_Sheet.pdf)
+* [VSCode 단축키 정리](file/VSCode_Cheat_Sheet.pdf)
 * [VSCode 단축키 설정](https://24hours-beginner.tistory.com/8)
 * ...

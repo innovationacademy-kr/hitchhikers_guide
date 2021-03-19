@@ -21,7 +21,7 @@
 * [잘 저장하자](database.md) - database
 * [Ruby가 기차를?](rubyonrails.md)
 * [Django: 웹개발 추적자](django.md)
-* [수학 필요한 만큼만 배우자](math.md) - 수학, 알고리즘
+* [수학 필요한 만큼만 배우자](math.md) - math
 * [어떤 구조가 좋은가](algorithm.md) - algorithm, data structure
 * [Python도 잘 배우자](python.md)
 * [IOS, Android를 한방에](flutter.md) - flutter

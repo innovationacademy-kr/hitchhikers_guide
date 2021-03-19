@@ -11,6 +11,7 @@
 * [문을 열자](intra.md) - ssh, kerbros
 * [먼저 외우자, 시간을 아끼자](hotkeys.md) - hotkey
 * [까만 화면, 하얀글씨](cmd.md) - command line
+* [Git 이용하기도 벅차...](git.md)
 * [C 언어를 잘 배우자](c.md)
 * [네트워크에 올라타자](network.md)
 * [그래픽을 알려주마](graphic.md)
@@ -20,10 +21,10 @@
 * [잘 저장하자](database.md) - database
 * [Ruby가 기차를?](rubyonrails.md)
 * [Django: 웹개발 추적자](django.md)
-* [수학 필요한 만큼만 배우자](math.md)
+* [수학 필요한 만큼만 배우자](math.md) - 수학, 알고리즘
 * [어떤 구조가 좋은가](algorithm.md) - algorithm, data structure
 * [Python도 잘 배우자](python.md)
-* [Git 이용하기도 벅차...](git.md)
+* [IOS, Android를 한방에](flutter.md) - flutter
 * ...
 
 ### 이 문서의 저작권 

@@ -13,4 +13,6 @@
 * [혼자 공부하는 C 언어](https://books.google.co.kr/books?id=_ZxTzAEACAAJ&dq=%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+c%EC%96%B8%EC%96%B4&hl=ko&sa=X&redir_esc=y) - 실습하며 C 언어 기초 익히기. 유튜브 강의 이외에도 [무료 강의](https://academy.elice.io/courses/5585/info)가 있음.
 * [모두의 코드 - 씹어먹는 C 언어](https://modoocode.com/231) - C언어의 기초부터 자세한 원리까지 공부하고 싶을때!
 * [C 언어 리뷰를 통해 조금 더 깊게 파헤쳐보자](https://www.notion.so/bigpel66/C-eb75dcb077374c60a1fd642afa39a7b0) - 포인터, scanf, 매크로 및 인라인, 메모리 구조 등... C언어를 사용하며 궁금할 수 있는 사항들에 대한 리뷰!
+* [C언어 명령어 전체보기](https://www.it-note.kr/category/C언어%20header/unistd.h) - C언어 라이브러리 헤더별로 포함하고 있는 함수와, 함수에 대한 상세한 설명을 써 둔 블로그
+* [wait 함수 사용하여 자식 프로세스 종료시까지 대기하기](https://codetravel.tistory.com/30) - C언어로 리눅스 시스템 프로그래밍을 할 때 참고하면 좋은 wait 함수와 fork 함수의 작동 설명
 * ...

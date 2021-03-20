@@ -8,3 +8,4 @@
 * [피타고라스의 정리를 재정립하기](https://betterexplained.com/articles/rescaling-the-pythagorean-theorem/) - 영어, 레이캐스팅에서 도움을 받을 수 있는 기초 수학
 * [C언어와 OpenGL로 레이캐스팅](https://www.youtube.com/watch?v=gYRrGTC7GtA) - 영어 유튜브 영상, C언어와 OpenGL을 사용해 울펜슈타인에서 사용된 레이캐스팅 구현해보기
 * [Lode's Computer Graphics Tutorial - Raycasting](https://lodev.org/cgtutor/raycasting.html) - 영어, DDA 알고리듬으로 레이캐스팅 구현
+* [Digital differential analyzer (graphics algorithm)](https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)) - DDA 알고리듬 위키피디아

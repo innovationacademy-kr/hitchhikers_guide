@@ -15,4 +15,6 @@
 * [C 언어 리뷰를 통해 조금 더 깊게 파헤쳐보자](https://www.notion.so/bigpel66/C-eb75dcb077374c60a1fd642afa39a7b0) - 포인터, scanf, 매크로 및 인라인, 메모리 구조 등... C언어를 사용하며 궁금할 수 있는 사항들에 대한 리뷰!
 * [C언어 명령어 전체보기](https://www.it-note.kr/category/C언어%20header/unistd.h) - C언어 라이브러리 헤더별로 포함하고 있는 함수와, 함수에 대한 상세한 설명을 써 둔 블로그
 * [wait 함수 사용하여 자식 프로세스 종료시까지 대기하기](https://codetravel.tistory.com/30) - C언어로 리눅스 시스템 프로그래밍을 할 때 참고하면 좋은 wait 함수와 fork 함수의 작동 설명
+* [musl libc source](https://git.musl-libc.org/cgit/musl/tree/src) - C 언어 standard library로 매우 가볍고, 간단한 소스를 가지고 있습니다.
+* [Cosmopolitan Libc](https://github.com/jart/cosmopolitan) - 인터프리터나 가상머신 없이 C코드를 어디서든 실행 가능하게 만들어주는 라이브러리. Wasm3(v0.4.8 부터)에서도 사용됨.
 * ...

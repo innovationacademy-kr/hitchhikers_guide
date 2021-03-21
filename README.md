@@ -8,23 +8,26 @@
 
 이 저장소를 watch 하시면 새로운 정보가 올라올 때, 메일을 받으실 수 있습니다.
 
-* [문을 열자](intra.md) - ssh, kerbros
-* [먼저 외우자, 시간을 아끼자](hotkeys.md) - hotkey
-* [까만 화면, 하얀글씨](cmd.md) - command line
-* [Git 이용하기도 벅차...](git.md)
-* [C 언어를 잘 배우자](c.md)
-* [네트워크에 올라타자](network.md)
-* [그래픽을 알려주마](graphic.md)
-* [Unix를 파헤치자](unix.md)
-* [C++는 뭔데?](cpp.md)
-* [구름 이야기](cloud.md) - cloud
-* [잘 저장하자](database.md) - database
-* [Ruby가 기차를?](rubyonrails.md)
-* [Django: 웹개발 추적자](django.md)
-* [수학 필요한 만큼만 배우자](math.md) - math
-* [어떤 구조가 좋은가](algorithm.md) - algorithm, data structure
-* [Python도 잘 배우자](python.md)
-* [IOS, Android를 한방에](flutter.md) - flutter
+* [문을 열자](intra.md) - SSH (Securue Shell), Kerberos
+* [먼저 외우자, 시간을 아끼자](hotkeys.md) - Hotkeys, Shortcuts.
+* [까만 화면, 하얀글씨](cmd.md) - Command Line
+* [Git 이용하기도 벅차...](git.md) - Git.
+* [C 언어를 잘 배우자](c.md) - C language
+* [네트워크에 올라타자](network.md) - Network
+* [그래픽을 알려주마](graphic.md) - Graphics
+* [Unix를 파헤치자](unix.md) - Unix
+* [C++는 뭔데?](cpp.md) - C++
+* [구름 이야기](cloud.md) - Cloud
+* [잘 저장하자](database.md) - Database
+* [Ruby가 기차를?](rubyonrails.md) - Ruby
+* [Django: 웹개발 추적자](django.md) - Django, The D is silent.
+* [수학 필요한 만큼만 배우자](math.md) - Math
+* [어떤 구조가 좋은가](algorithm.md) - Algorithm, Data structure
+* [Python도 잘 배우자](python.md) - Python 
+* [IOS, Android를 한방에](flutter.md) - Flutter
+* [GNU? Linux?](linux.md) - GNU/Linux
+* [자유 소프트웨어와 오픈소스 소프트웨어](foss.md) - Free/Open Source Software
+* [거의 모든 것들에 대한 awesome 목록](awesome.md) - Awesome list!
 * ...
 
 ### 이 문서의 저작권 

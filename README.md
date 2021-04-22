@@ -8,6 +8,7 @@
 
 이 저장소를 `watch` 하시면 새로운 정보가 올라올 때, 메일을 받으실 수 있습니다.
 
+* [배운다는 것, 일을 한다는 것](softskill.md) - 우선 살펴보자
 * [문을 열자](intra.md) - SSH (Secure Shell), Kerberos
 * [먼저 외우자, 시간을 아끼자](hotkeys.md) - Hotkeys, Shortcuts.
 * [까만 화면, 하얀글씨](cmd.md) - Command Line

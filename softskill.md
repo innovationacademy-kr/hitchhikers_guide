@@ -1,7 +1,6 @@
-## 42학생들을 위한 소프트스킬(유튜브)
-* 42SEOUL 학생들이 참고할 자료들을 유튜브에서 찾아보았습니다.
+* 동료학습, 프로젝트 기반 학습을 하는 학생들이 참고할 동영상등
 
-### 42 과정에 대한 이해
+### 학습 방법과 과정에 대한 이해
 * [미래교육의 화두, 배우는 법을 배우기](https://www.youtube.com/watch?v=XLH9XVLq3_c)
 * [구성주의 교육](https://www.youtube.com/watch?v=qgyzV1Owm4Q)
 * [학습공동체](https://www.youtube.com/watch?v=dtkSzrvbBJ0)

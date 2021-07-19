@@ -7,5 +7,10 @@ kerberos, ssh, ...
 * [kinit IBM 문서](https://publib.boulder.ibm.com/tividd/td/framework/SC32-0806-00/ko_KO/HTML/ref32.htm)
 * [klist IBM 문서](https://publib.boulder.ibm.com/tividd/td/framework/SC32-0806-00/ko_KO/HTML/ref33.htm)
 * [커버로스 인증 개념 정리](https://losskatsu.github.io/it-infra/kerberos/)
+* ...
+
+### ssh
+
 * [클러스터 맥에서 42intra ssh 설정/사용하기](https://velog.io/@eunlee/guacamolessh)
 * ...
+

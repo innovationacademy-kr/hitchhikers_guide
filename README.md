@@ -30,6 +30,7 @@
 * [자유 소프트웨어와 오픈 소스 소프트웨어](foss.md) - Free/Open Source Software
 * [거의 모든 것들에 대한 awesome 목록](awesome.md) - Awesome list!
 * ...
+* [팔만코딩경](https://80000coding.oopy.io) - 일단 뭐가 있나보자
 
 ### 오픈소스로 개발하기
 * [Open Source Program Office](https://github.com/innovationacademy-kr/ospo101) - 오픈소스 프로그램 오피스 관리 101

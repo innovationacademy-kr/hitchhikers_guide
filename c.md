@@ -17,4 +17,8 @@
 * [wait 함수 사용하여 자식 프로세스 종료시까지 대기하기](https://codetravel.tistory.com/30) - C언어로 리눅스 시스템 프로그래밍을 할 때 참고하면 좋은 wait 함수와 fork 함수의 작동 설명
 * [musl libc source](https://git.musl-libc.org/cgit/musl/tree/src) - C 언어 standard library로 매우 가볍고, 간단한 소스를 가지고 있습니다.
 * [Cosmopolitan Libc](https://github.com/jart/cosmopolitan) - 인터프리터나 가상머신 없이 C코드를 어디서든 실행 가능하게 만들어주는 라이브러리. Wasm3(v0.4.8 부터)에서도 사용됨.
+* [Masterclass - Clean Code](https://www.youtube.com/watch?v=BVwxan6WGpI) - 42 네트워크 코담 캠퍼스에서 진행된 세미나 클래스. C로 작성된 예제코드로 진행
+* [C Puzzles](https://chortle.ccsu.edu/cpuzzles/CpuzzlesMain.html) - C언어 학습을 돕는 프로그래밍 퍼즐을 제공
+* [C reference](https://en.cppreference.com/w/c) - 온라인 C 레퍼런스
+* [Criterion](https://github.com/Snaipe/Criterion) - 단순하며 확장성있는 C/C++ 유닛테스트 프레임워크
 * ...

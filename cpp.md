@@ -7,3 +7,12 @@
 * [cplusplus.com](http://www.cplusplus.com) - (영어) CPP에 대한 정보와 명령어 설명이 모여있는 사이트
 * [C++ reference](https://en.cppreference.com/w/) - (영어) C와 CPP 표준 설명
 * [최익필 블로그 - Effective C++ 3판 3rd 목차 및 링크](https://www.ikpil.com/521?category=177570) - [스콧 마이어스(Scott Meyers)의 저서, "Effective C++(3rd)"](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=58951705)의 55항목 전체를 항목별로 정리해 둔 블로그
+* [Google for Education > C++](https://developers.google.com/edu/c++) - 구글에서 제공하는 C++ 학습 콘텐츠
+* [C++ 이야기(A Stroy of C++)](https://wikidocs.net/book/2380) - C++ 학습을 위해 제작된 이북. 온라인 책 제작 공유 플랫폼 위키독스에 무료 열람 가능
+* [C++ Object Model Internals](https://www.avabodh.com/cxxin/cxx.html) - C++ 오브젝트 모델의 내부 동작 원리에 관한 아티클
+* [Awesome Modern C++](https://awesomecpp.com/) - 모던 C++에 관한 자료모음 사이트
+* [Learn C++](https://www.learncpp.com/) - C++ 무료 학습 튜토리얼
+* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) - 구글 C++ 스타일 가이드
+* [Firefox C++ Coding style](https://firefox-source-docs.mozilla.org/code-quality/coding-style/coding_style_cpp.html) - 파이퍼폭스 C++ 코딩 스타일
+* [Unreal C++ Coding Standard](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/DevelopmentSetup/CodingStandard/) - 언리얼 엔진4 코딩 표준 및 컨벤션
+* ...

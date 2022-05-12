@@ -26,7 +26,7 @@
 * [어떤 구조가 좋은가](algorithm.md) - Algorithm, Data structure
 * [Python도 잘 배우자](python.md) - Python
 * [iOS, Android를 한 방에](flutter.md) - Flutter
-* [GNU? Linux?](gnulinux.md) - GNU/Linux
+* [GNU? Linux?](gnulinux.md) - GNU/Linux Operating System
 * [자유 소프트웨어와 오픈 소스 소프트웨어](foss.md) - Free/Open Source Software
 * [거의 모든 것들에 대한 awesome 목록](awesome.md) - Awesome list!
 * ...

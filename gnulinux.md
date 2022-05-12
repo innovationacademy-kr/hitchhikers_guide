@@ -5,3 +5,5 @@
 * [위키피디아에 설명된 리눅스](https://ko.wikipedia.org/wiki/리눅스) - 리눅스의 역사와 현재 사용되는 곳 등에 대해 정리된 문서
 * [리눅스 튜토리얼](https://zetawiki.com/wiki/리눅스_튜토리얼) - 가장 기본적인 리눅스 명령어 정리
 * [쉘 스크립트](https://mug896.github.io/bash-shell/) - 리눅스의 쉘 프로그래밍 입문자를 위해 쉽게 설명된 무료 서적
+
+* [Operating System](https://pages.cs.wisc.edu/~remzi/OSTEP/?fbclid=IwAR28-opnr1CwZdZqdJ8m1Pj_YZl2wz6EhPPjLc1bBnHDsHXOja-N1Fi9NdA) - 운영체제의 모든 것 (영어)
